@@ -1,6 +1,6 @@
 # Hi there, I'm Amanuel Agegnehu! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](github banner image.png)
 
 ## About Me 🚀
 
