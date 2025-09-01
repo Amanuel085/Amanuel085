@@ -6,6 +6,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="github-banner-image.jpg" alt="Developer Banner" width="100%" />
+</p>
+
 
 ## 🚀 About Me
 
