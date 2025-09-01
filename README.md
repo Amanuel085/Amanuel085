@@ -7,7 +7,7 @@
 
 ---
 <p align="center">
-  <img src="banner-github.png" alt="Developer Banner" width="100%" />
+  <img src="Amanuel085/banner-github.png" alt="Developer Banner" width="100%" />
 </p>
 
 
