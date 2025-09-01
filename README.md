@@ -1,42 +1,63 @@
-# Hi there, I'm Amanuel Agegnehu! 👋
+<h1 align="center">Hi, I'm Amanuel Agegnehu 👋</h1>
 
-![Banner Image](github-banner-image.jpg)
+<p align="center">
+  <em>Front-End Developer | UX Enthusiast | Community Builder</em><br>
+  <strong>Solving real-world problems through impactful, human-centered software.</strong>
+</p>
 
-I'm a passionate **Software Engineering** with experience in **JavaScript, Flutter and Java*. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+---
 
-- 🌱 Currently learning: **NextJs, React Native, Typescript & Springboot**
-- 🔭 Working on: **A mobile application for  cattle tracing for farmaers**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **amanuelage873@gmail.com**
-- ⚡ Fun fact: **I’m the kind of developer who color-codes my sticky notes, wireframes my weekend plans, and once debugged a layout issue by sketching it on a napkin. If it’s visual, I’m vibing. **
+## 🚀 About Me
 
-## My Skills 🧠
+I'm currently advancing through the <strong>ALX Pro Front End Development track</strong>, where I'm building the skills to craft intuitive, accessible, and scalable web applications. My journey into software engineering began with a simple goal: to create solutions that matter. Today, I’m driven by the opportunity to work on meaningful projects and collaborate with teams that value innovation and impact.
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+- 🌍 Based in Addis Ababa, Ethiopia  
+- 💡 Passionate about design systems, accessibility, and clean architecture  
+- 🛠️ Tech Stack: JavaScript, React, Next.js, Tailwind CSS, Flutter, Java  
+- 🤝 Open to collaboration, mentorship, and community-driven projects  
+- 🎯 Long-term goal: Join a big tech company and contribute to large-scale solutions
 
+---
 
-## Featured Projects 💻
+## 🧰 Tech Toolbox
 
-### [Project 1 Title](project_1_link)
+```html
+<code>JavaScript</code> • <code>React</code> • <code>Next.js</code> • <code>Tailwind CSS</code> • <code>Flutter</code> • <code>Java</code> • <code>Git</code> • <code>Figma</code> • <code>Linux</code>
+```
 
-![Project 1 Screenshot](project_1_screenshot_url)
+---
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+## 📂 Featured Projects
 
-### [Project 2 Title](project_2_link)
+| Project | Description | Tech |
+|--------|-------------|------|
+| [AirBnB Clone](https://github.com/Amanuel085/airbnb-clone) | Full-stack clone with clean UX and accessibility-first design | React, Tailwind, Node.js |
+| [Wireframing Guide](https://github.com/Amanuel085/wireframing) | Visual documentation of wireframing principles and tools | Markdown, Figma |
+| [Requirement Analysis](https://github.com/Amanuel085/requirement-analysis) | SDLC documentation with diagrams and stakeholder flows | Markdown, Draw.io |
 
-![Project 2 Screenshot](project_2_screenshot_url)
+---
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+## ✍️ Recent Highlights
 
-## Get in Touch 📬
+- 🔗 Revamped my GitHub profile to reflect my growth and goals  
+- 🧠 Documented requirement analysis and wireframing best practices  
+- 💬 Active in peer reviews and community support on Discord and WhatsApp  
+- 📣 Sharing my journey on LinkedIn to inspire and connect with others
 
-- **[Personal Website / Blog]**(https://sites.google.com/view/amanuelagegnehu/)
-- **[LinkedIn]**(linkedin.com/in/amanuel-agegnehu-477585234)
-- **[Twitter]**(@AmanuelAge)
+---
 
+## 📫 Let's Connect
 
+- 💼 [LinkedIn](https://linkedin.com/in/amanuel-agegnehu-477585234)  
+- 🧠 [Savannah Profile](https://savanna.alxafrica.com/profile/amanuel085)  
+- 💬 Discord: `Amanuel085`  
+- 🐦 Twitter: `@AmanuelCodes` *(if applicable)*
+
+---
+
+<p align="center">
+  <em>“Code is not just syntax—it's a language for empathy, clarity, and change.”</em>
+</p>
+```
+
+---
