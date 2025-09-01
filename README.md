@@ -1,6 +1,6 @@
 # Hi there, I'm Amanuel Agegnehu! 👋
 
-![Banner Image](Amanuel085/github-banner-image/jpg)
+![Banner Image](Amanuel085/github-banner-image.jpg)
 
 I'm a passionate **Software Engineering** with experience in **JavaScript, Flutter and Java*. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
