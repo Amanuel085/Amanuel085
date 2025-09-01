@@ -55,7 +55,7 @@ I'm currently advancing through the <strong>ALX Pro Front End Development track<
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/amanuel-agegnehu-477585234)  
-- 💬 Discord: `Amanuel085`  
+- 💬 Discord: `amanuel_63170`  
 - 🐦 Twitter: `@AmanuelAge` 
 
 ---
