@@ -1,6 +1,6 @@
 # Hi there, I'm Amanuel Agegnehu! 👋
 
-![Banner Image](https://www.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_174143190.htm#fromView=search&page=1&position=25&uuid=1cd9ea68-cff2-4e59-a604-1b771fea4524&query=Github+banner+image)
+![Banner Image]()
 
 ## About Me 🚀
 
