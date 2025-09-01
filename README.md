@@ -7,7 +7,7 @@
 
 ---
 <p align="center">
-  <img src="[Amanuel085/banner-github.png](https://www.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_172419727.htm#fromView=search&page=3&position=42&uuid=08228c48-fbc0-4caf-891f-58f13174859d&query=GitHub+Developer+banner)" alt="Developer Banner" width="100%" />
+  <img src="https://www.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_172419727.htm#fromView=search&page=3&position=42&uuid=08228c48-fbc0-4caf-891f-58f13174859d&query=GitHub+Developer+banner" alt="Developer Banner" width="100%" />
 </p>
 
 
